@@ -1,0 +1,146 @@
+{
+  "week4": {
+    "day1": {
+      "core": [
+        "active-record-associations-drill-at-the-races-challenge",
+        "raw-tcp-challenge",
+        "raw-http-challenge",
+        "cheering-mascot-sinatra-1-synchronous-forms-challenge",
+        "active-record-associations-drill-hotels-challenge",
+        "github-api-challenge",
+        "recent-tweets-command-line-challenge",
+        "tweet-now-command-line-challenge",
+        "sinatra-sandbox-challenge"
+      ]
+    },
+    "day2": {
+      "core": [
+        "anagram-server-1-the-basics-challenge",
+        "sinatra-url-shortener-challenge",
+        "blog-1-anonymous-blog-challenge",
+        "anagram-server-2-ludicrous-speed-challenge"
+      ]
+    },
+    "day3": {
+      "core": [
+        "rest-controller-karaoke-challenge",
+        "craigslist-jr-challenge"
+      ]
+    },
+    "day4": {
+      "core": [
+        "user-registration-and-authentication-challenge",
+        "blog-2-multi-author-challenge",
+        "sinatra-url-shortener-with-users-challenge"
+      ]
+    },
+    "day5": {
+      "core": [
+        "web-flashcards-challenge"
+      ]
+    },
+    "day7": {
+      "core": [
+        "snitching-on-sinatra-challenge",
+        "activerecord-design-your-own-challenge"
+      ]
+    },
+    "weekend": {
+      "core": [
+        "crud-and-rest-checkpoint-challenge",
+        "javascript-from-ruby-challenge"
+      ]
+    }
+  },
+  "week5": {
+    "day1": {
+      "core": [
+        "behavior-drill-style-editor-challenge",
+        "behavior-drill-tabbed-interface-challenge",
+        "cheering-mascot-sinatra-2-asynchronous-forms-challenge",
+        "layout-drill-basic-form-styling-challenge",
+        "layout-drill-left-hand-navigation-challenge",
+        "layout-drill-right-hand-navigation-challenge",
+        "layout-drill-proper-typesetting-challenge",
+        "behavior-drill-collapsible-side-menu-challenge",
+        "behavior-drill-form-validation-challenge"
+      ]
+    },
+    "day2": {
+      "core": [
+        "behavior-drill-add-comments-challenge",
+        "lucky-ajax-challenge",
+        "ajaxifying-hacker-news-challenge",
+        "sinatra-json-challenge",
+        "ajax-review-challenge"
+      ]
+    },
+    "day3": {
+      "core": [
+        "sinatra-overflow-challenge"
+      ]
+    },
+    "day4": {
+      "core": [
+
+      ]
+    },
+    "day5": {
+      "core": [
+        "ajax-checkpoint-challenge",
+        "javascript-racer-1-front-end-challenge",
+        "javascript-racer-2-back-end-challenge"
+      ]
+    },
+    "weekend": {
+      "core": [
+        "oojs-garden-challenge"
+      ]
+    }
+  },
+  "week6": {
+    "day1": {
+      "core": [
+        "oojs-orange-tree-challenge",
+        "oojs-bikes-and-stations-challenge",
+        "javascript-racer-3-oojs-style-challenge",
+        "oo-js-etsy-challenge",
+        "hr-sinatra-refactor-challenge"
+      ]
+    },
+    "day2": {
+      "core": [
+        "hacker-news-clone-part-1-challenge",
+        "hacker-news-clone-part-2-challenge",
+        "active-record-intro-validations-challenge",
+        "ph2-p5-active-record-and-sinatra-propagating-validations-challenge",
+        "ar-teams-and-leagues-challenge",
+        "active-record-associations-drill-shirts-challenge",
+        "tic-tac-toe-challenge",
+        "javascript-roman-numerals-challenge",
+        "javascript-todos-1-0-core-features-challenge"
+      ]
+    },
+    "day3": {
+      "core": [
+
+      ]
+    },
+    "day4": {
+      "core": [
+        "environment-variables-drill-challenge",
+        "build-beautiful-meaningful-things-challenge"
+      ]
+    },
+    "day5": {
+      "core": [
+
+      ]
+    },
+    "weekend": {
+      "core": [
+
+      ]
+    }
+  }
+}
