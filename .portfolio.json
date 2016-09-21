@@ -1,5 +1,5 @@
 {
-  "week4": {
+  "week1": {
     "day1": {
       "core": [
         "active-record-associations-drill-at-the-races-challenge",
@@ -39,7 +39,7 @@
         "web-flashcards-challenge"
       ]
     },
-    "day7": {
+    "pre-work": {
       "core": [
         "snitching-on-sinatra-challenge",
         "activerecord-design-your-own-challenge"
@@ -52,7 +52,7 @@
       ]
     }
   },
-  "week5": {
+  "week2": {
     "day1": {
       "core": [
         "behavior-drill-style-editor-challenge",
@@ -98,7 +98,7 @@
       ]
     }
   },
-  "week6": {
+  "week3": {
     "day1": {
       "core": [
         "oojs-orange-tree-challenge",

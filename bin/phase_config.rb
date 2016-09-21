@@ -27,12 +27,12 @@ module PhaseConfig
 
   def challenges_as_portfolio(path)
     challenge_hash = challenges_as_hash(path)
-    challenge_hash.keys.each do |week|
-      new_key = week.tr("-", "")
+    challenge_hash.keys.each_with_index do |week, index|
+      new_key = "week#{index+1}"
       days_hash = challenge_hash[week]
 
       days_hash.keys.each_with_index do |day, index|
-        if day == "weekend"
+        if day == "weekend" || day == "pre-work"
           days_hash[day] = {core: days_hash[day]}
         else
           days_hash["day#{index+1}"] = {core: days_hash[day]}
