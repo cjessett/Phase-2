@@ -49,8 +49,8 @@ Find your weekly groups [here](./resources/groups.md).
 
 ## Weekly Cadence
 
-- Yoga: mandatory once per week, classes available 11:45am - 12:30pm Tuesday through Thursday
-- Engineering Empathy: Tuesdays at 3:30pm
+- Yoga: classes available 12:45am - 1:30pm Tuesday through Thursday
+- Engineering Empathy: Tuesdays at 4:30pm
   - Week One
     - Monday - Sexism Awareness
     - Tuesday - Sexism in Tech &amp; Micro Agressions
@@ -58,7 +58,7 @@ Find your weekly groups [here](./resources/groups.md).
     - Tuesday - Crucial Conversations
   - Week Three
     - Friday - Teams and Temperaments
-- Careers Checkin: Week 3, thursday at 1:15pm
+- Careers Checkin: Week 3, Thursday at 2:15pm
 - Assessment: Third Wednesday starting in the morning
   - "The Challenge" - All day (break for lunch, as usual)
   - "Code Review" - 30 minute blocks starting Thursday morning
@@ -67,15 +67,15 @@ Find your weekly groups [here](./resources/groups.md).
 
 Time    | Activity
 ---     | ---
-7:45am  | Check in with accountability buddies
-8:00am  | Morning Announcements
-8:05am  | Daily Progress Checkin
-8:25am  | Challenges/Breakouts
-11:30am | Lunch
-1:00pm  | Afternoon Announcements
-1:05pm  | Challenges/Breakouts
-5:00pm  | End of core hours
-5:00pm  | After hours learning/mentoring/solo time
+8:45am  | Check in with accountability buddies
+9:00am  | Morning Announcements
+9:05am  | Daily Progress Checkin
+9:25am  | Challenges/Breakouts
+12:30am | Lunch
+2:00pm  | Afternoon Announcements
+2:05pm  | Challenges/Breakouts
+6:00pm  | End of core hours
+6:00pm  | After hours learning/mentoring/solo time
 
 ## Additional Resources
 
