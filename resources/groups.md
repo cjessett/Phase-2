@@ -1,7 +1,7 @@
 # Weekly Groups
 
-## Week 4
+## Week 1
 
-## Week 5
+## Week 2
 
-## Week 6
+## Week 3

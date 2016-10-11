@@ -48,15 +48,25 @@
     "weekend": {
       "core": [
         "crud-and-rest-checkpoint-challenge",
-        "javascript-from-ruby-challenge"
+        "javascript-from-ruby-challenge",
+        "the-dom-challenge"
       ]
     }
   },
   "week2": {
     "day1": {
       "core": [
+        "javascript-roman-numerals-challenge",
+        "javascript-todos-1-0-core-features-challenge",
+        "oojs-bikes-and-stations-challenge",
+        "oojs-orange-tree-challenge"
+      ]
+    },
+    "day2": {
+      "core": [
         "behavior-drill-style-editor-challenge",
         "behavior-drill-tabbed-interface-challenge",
+        "behavior-drill-add-comments-challenge",
         "cheering-mascot-sinatra-2-asynchronous-forms-challenge",
         "layout-drill-basic-form-styling-challenge",
         "layout-drill-left-hand-navigation-challenge",
@@ -66,45 +76,34 @@
         "behavior-drill-form-validation-challenge"
       ]
     },
-    "day2": {
-      "core": [
-        "behavior-drill-add-comments-challenge",
-        "lucky-ajax-challenge",
-        "ajaxifying-hacker-news-challenge",
-        "sinatra-json-challenge",
-        "ajax-review-challenge"
-      ]
-    },
     "day3": {
       "core": [
-        "sinatra-overflow-challenge"
+        "lucky-ajax-challenge",
+        "sinatra-json-challenge"
       ]
     },
     "day4": {
       "core": [
-
+        "sinatra-overflow-challenge"
       ]
     },
     "day5": {
       "core": [
-        "ajax-checkpoint-challenge",
-        "javascript-racer-1-front-end-challenge",
-        "javascript-racer-2-back-end-challenge"
+
       ]
     },
     "weekend": {
       "core": [
-        "oojs-garden-challenge"
+        "ajax-checkpoint-challenge"
       ]
     }
   },
   "week3": {
     "day1": {
       "core": [
-        "oojs-orange-tree-challenge",
-        "oojs-bikes-and-stations-challenge",
+        "javascript-racer-1-front-end-challenge",
+        "javascript-racer-2-back-end-challenge",
         "javascript-racer-3-oojs-style-challenge",
-        "oo-js-etsy-challenge",
         "hr-sinatra-refactor-challenge"
       ]
     },
@@ -116,9 +115,10 @@
         "ph2-p5-active-record-and-sinatra-propagating-validations-challenge",
         "ar-teams-and-leagues-challenge",
         "active-record-associations-drill-shirts-challenge",
+        "ajaxifying-hacker-news-challenge",
+        "ajax-review-challenge",
         "tic-tac-toe-challenge",
-        "javascript-roman-numerals-challenge",
-        "javascript-todos-1-0-core-features-challenge"
+        "oojs-garden-challenge"
       ]
     },
     "day3": {

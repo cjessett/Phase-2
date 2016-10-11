@@ -20,8 +20,7 @@ module PhaseConfig
 
   def challenges_as_list(path)
     list = find_challenges(path).map{|challenge| challenge[2]}.flatten
-    list << "sinatra-skeleton-mvc-challenge" #temporary
-    list << "javascript-drills-challenge" #temporary
+    list.concat find_resources(path)
     list.sort
   end
 
@@ -67,5 +66,11 @@ module PhaseConfig
     end
 
     challenges
+  end
+
+  def find_resources(path)
+    repo = File.expand_path(path)
+    file = File.read("#{repo}/config/resources.json")
+    JSON.parse(file)
   end
 end
