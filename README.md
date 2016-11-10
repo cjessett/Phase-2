@@ -77,6 +77,7 @@ Time    | Activity
 6:00pm  | End of core hours
 6:00pm  | After hours learning/mentoring/solo time
 
+
 ## Additional Resources
 
 - [Resource Links](resources/)
