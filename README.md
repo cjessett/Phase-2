@@ -49,7 +49,6 @@ Find your weekly groups [here](./resources/groups.md).
 
 ## Weekly Cadence
 
-- Yoga: classes available 12:45am - 1:30pm Tuesday through Thursday
 - Engineering Empathy: Tuesdays at 4:30pm
   - Week One
     - Monday - Sexism Awareness
