@@ -1,14 +1,17 @@
 ## Monday
+
 ### JavaScript Refresher
+
+_Careers Preparation: This week's topic is: **Organizing your Job Search**_
 
 ### Core
 
 **Challenges - JavaScript**
 
 - [JavaScript Roman Numerals](../../../../javascript-roman-numerals-challenge)
-- [JavaScript Todos](../../../../javascript-todos-1-0-core-features-challenge)
+- [OOJS with Gardens](../../../../oojs-garden-challenge)
 - [Orange Trees](../../../../oojs-orange-tree-challenge)
-- [OOJS Bikes & Stations](../../../../oojs-bikes-and-stations-challenge)
+- [Advanced Active Record](../../../../active-record-associations-drill-hotels-challenge)
 
 **Prep for Tomorrow**
 

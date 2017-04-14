@@ -43,9 +43,9 @@
   "week-5": {
     "monday": [
       "javascript-roman-numerals-challenge",
-      "javascript-todos-1-0-core-features-challenge",
+      "oojs-garden-challenge",
       "oojs-orange-tree-challenge",
-      "oojs-bikes-and-stations-challenge"
+      "active-record-associations-drill-hotels-challenge"
     ],
     "tuesday": [
       "behavior-drill-style-editor-challenge",
@@ -102,7 +102,7 @@
       "ajaxifying-hacker-news-challenge",
       "ajax-review-challenge",
       "tic-tac-toe-challenge",
-      "oojs-garden-challenge"
+      "oojs-bikes-and-stations-challenge"
     ],
     "wednesday": [
 

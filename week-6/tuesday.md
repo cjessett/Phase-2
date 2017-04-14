@@ -1,5 +1,9 @@
 ## Tuesday
 
+### Review Day
+
+_Last 90 Minutes of the Day_: EE: "Team Dynamics"
+
 ### Core
 
 **Challenges - CRUD & Sintatra**
@@ -26,7 +30,7 @@
 **Challenges - JavaScript**
 
 - [Tic-Tac-Toe](../../../../tic-tac-toe-challenge)
-- [OOJS with Gardens](../../../../oojs-garden-challenge)
+- [OOJS Bikes & Stations](../../../../oojs-bikes-and-stations-challenge)
 
 **Prep for Tomorrow**
 
