@@ -51,12 +51,11 @@ Find your weekly groups [here](./resources/groups.md).
 
 - Engineering Empathy: Tuesdays at 4:30pm
   - Week One
-    - Monday - Sexism Awareness
-    - Tuesday - Sexism in Tech &amp; Micro Agressions
+    - Tuesday - Solo Prep Work for Disrupting Bias & Microaggressions
   - Week Two
-    - Tuesday - Crucial Conversations
+    - Tuesday - Disrupting Bias & Microaggressions
   - Week Three
-    - Friday - Teams and Temperaments
+    - Tuesday - Teams Dynamics
 - Careers Checkin: Week 3, Thursday at 2:15pm
 - Assessment: Third Wednesday starting in the morning
   - "The Challenge" - All day (break for lunch, as usual)
