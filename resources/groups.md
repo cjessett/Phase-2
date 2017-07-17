@@ -1,6 +1,6 @@
 # Weekly Groups
 
-##Week 1
+## Week 1
 1. (4) Tony Rodriguez, Andy Schwarts, Zackory Taylor, Dillon Forestell
 2. (4) Brendan O'Handley, Gabriel Osborne, Dmitri Stefanisin, George Dzuricsko
 3. (4) Dan Krzyzanowski, Eric Wotring, Sanjay Nelson, James Kyle
@@ -10,7 +10,7 @@
 7. (3) Matt Cataldi, Joe Connors, Ravi Patel
 
 
-##Week 2
+## Week 2
 1. (4) Qymana Botts, Eric Wotring, Matt Cataldi, Saham Khozestani
 2. (4) Brendan O'Handley, Tyler Fridley, Andy Schwarts, Matt Mayerle
 3. (4) Paul Hammerschmidt, Sanjay Nelson, Michael Knapp, Zackory Taylor
@@ -20,7 +20,7 @@
 7. (3) Gabriel Osborne, Dillon Forestell, Greg Nagy
 
 
-##Week 3
+## Week 3
 1. (4) Eric Wotring, Dominique Goncalves, Dillon Forestell, Gabriel Osborne
 2. (4) Joe Connors, Ryan McCool, George Dzuricsko, Sanjay Nelson
 3. (4) Paul Hammerschmidt, Dan Digney, Saham Khozestani, Dan Krzyzanowski
