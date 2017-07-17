@@ -81,5 +81,6 @@ Time    | Activity
 
 ## Additional Resources
 
+- [Cohort Calendar](https://www.google.com/calendar/embed?src=ZGV2Ym9vdGNhbXAuY29tX3EwYTE4YzhoNGdxMnVnMTJvdXJ2azl1OGM0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 - [Resource Links](resources/)
 - [Mentoring Signup](http://mentoring.devbootcamp.com/)
